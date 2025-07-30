@@ -31,8 +31,10 @@ const BASE_ALLOWED_TOOLS = [
   "LS",
   "Read",
   "Write",
+  "Bash", //yolo
+  "WebSearch", // much better
+  "WebFetch",
 ];
-const DISALLOWED_TOOLS = ["WebSearch", "WebFetch"];
 
 export function buildAllowedToolsString(
   customAllowedTools?: string[],
