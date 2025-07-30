@@ -1,5 +1,5 @@
-name: "Claude Code Action Official"
-description: "General-purpose Claude agent for GitHub PRs and issues. Can answer questions and implement code changes."
+name: "Claude Code Action (yolo mode)"
+description: "General-purpose Claude agent for GitHub PRs and issues. Can answer questions and implement code changes. With added WebSearch, WebFetch and Bash tools turned on by default."
 branding:
   icon: "at-sign"
   color: "orange"
